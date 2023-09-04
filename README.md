@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Laravel, React, HTML, PHP, MySQL and JavaScript**
+- 🌱 I’m currently learning **Typescript, React, NextJS, TailwindCSS, MySQL and JavaScript**
 
 - 📫 How to reach me **januspaul52@gmail.com**
 
-- ⚡ Fun fact **I'm too energetic**
+- ⚡ Fun fact **there is no fun fact, I'm boring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
